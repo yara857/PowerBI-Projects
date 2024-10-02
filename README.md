@@ -47,3 +47,53 @@ This dashboard provides an overview of the key sales metrics, including revenue,
 
 This dashboard helps in understanding the sales performance across different markets, customers, and products. It is an essential tool for monitoring business growth, identifying key revenue generators, and analyzing trends over time.
 
+# Sales and Revenue for Furniture Dashboard
+
+![Uploading Screenshot (332).png…]()
+
+## Overview
+
+This dashboard provides a comprehensive view of the sales and revenue data for a furniture business. It is designed to track key metrics such as total sales, revenue, profit margins, costs, and performance across different seasons, brands, categories, and store types.
+
+## Dashboard Features
+
+1. **Sum of Revenue and Sales by Season**: 
+   - Displays total revenue and the number of sales for each season (Fall, Spring, Winter, Summer).
+   - Helps in understanding seasonal patterns in revenue generation.
+
+2. **Revenue by Category**:
+   - A pie chart showing revenue distribution across different furniture categories (Table, Sofa, Chair, Desk, Bed).
+   - Useful for analyzing which category contributes most to the revenue.
+
+3. **Cost by Brand and Season**:
+   - A line chart representing the total costs incurred for each brand across seasons.
+   - Provides insights into how brand-related costs fluctuate throughout the year.
+
+4. **Revenue by Location and Category**:
+   - A stacked bar chart comparing revenue for different product categories (Bed, Chair, Desk, Sofa, Table) across various locations (Rural, Suburban, Urban).
+   - Allows for location-based revenue analysis.
+
+5. **Sales by Store Type**:
+   - A pie chart indicating the sales distribution between **Online** and **Retail** store types.
+   - Highlights the sales contribution of different selling channels.
+
+6. **Revenue by Brand and Season**:
+   - Line chart showing the total revenue for various brands across seasons.
+   - Helps in identifying the performance of different brands throughout the year.
+
+## Key Metrics
+
+- **Total Revenue**: $14.82M
+- **Profit Margin**: $75.52K
+- **Top Performing Season**: Winter
+- **Top Product Category**: Sofa (22.72% of total revenue)
+
+## Technologies Used
+
+- **Power BI**: The dashboard is built using Power BI, which offers interactive data visualizations to help make data-driven decisions.
+
+## How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/furniture-sales-dashboard.git

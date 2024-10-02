@@ -49,7 +49,7 @@ This dashboard helps in understanding the sales performance across different mar
 
 # Sales and Revenue for Furnitures Dashboard
 
-![Uploading Screenshot (332).png…]()
+![Screenshot (332)](https://github.com/user-attachments/assets/562b1468-7e0f-47c8-b1c6-724b63d349d1)
 
 ## Overview
 

@@ -47,7 +47,7 @@ This dashboard provides an overview of the key sales metrics, including revenue,
 
 This dashboard helps in understanding the sales performance across different markets, customers, and products. It is an essential tool for monitoring business growth, identifying key revenue generators, and analyzing trends over time.
 
-# Sales and Revenue for Furniture Dashboard
+# Sales and Revenue for Furnitures Dashboard
 
 ![Uploading Screenshot (332).png…]()
 
@@ -88,12 +88,3 @@ This dashboard provides a comprehensive view of the sales and revenue data for a
 - **Top Performing Season**: Winter
 - **Top Product Category**: Sofa (22.72% of total revenue)
 
-## Technologies Used
-
-- **Power BI**: The dashboard is built using Power BI, which offers interactive data visualizations to help make data-driven decisions.
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/furniture-sales-dashboard.git

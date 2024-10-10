@@ -14,4 +14,4 @@ This HR Dashboard provides a comprehensive and data-driven overview of key Human
 - Review data on employee retrenchment to identify patterns and address turnover.
 - Understand the employee destination post-departure to evaluate retention strategies.
 - Track years of service to assess employee loyalty and long-term engagement.
-- With this dashboard, HR professionals can make informed, data-driven decisions that improve workforce management and drive organizational success.
+###### With this dashboard, HR professionals can make informed, data-driven decisions that improve workforce management and drive organizational success.

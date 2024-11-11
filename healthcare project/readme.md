@@ -13,17 +13,17 @@ The dashboard includes the following visualizations:
 ### Analytical Questions
 To further explore the dataset, consider these questions:
 
-###### Gender Analysis:
-How does gender distribution correlate with specific medical conditions or admission types?
+##### Gender Analysis:
+###### How does gender distribution correlate with specific medical conditions or admission types?
 
-###### Age Distribution:
-Are patients over 50 more likely to have specific medical conditions that result in urgent or emergency admissions?
+##### Age Distribution:
+###### Are patients over 50 more likely to have specific medical conditions that result in urgent or emergency admissions?
 
-###### Admission Types by Age Group:
-What factors drive the need for urgent or emergency admissions in patients below 50 vs. those over 50?
+##### Admission Types by Age Group:
+###### What factors drive the need for urgent or emergency admissions in patients below 50 vs. those over 50?
 
-###### Blood Type Distribution:
-Could certain blood types be linked with higher risks of specific medical conditions or influence the type of care required?
+##### Blood Type Distribution:
+###### Could certain blood types be linked with higher risks of specific medical conditions or influence the type of care required?
 
-###### Medical Conditions by Gender:
-What additional insights could we gain by analyzing these conditions by both age and gender?
+##### Medical Conditions by Gender:
+###### What additional insights could we gain by analyzing these conditions by both age and gender?
